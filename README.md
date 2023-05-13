@@ -1,5 +1,6 @@
 # XR-Lab6
-Lab 6 da matéria de Realidade Virtual e Aumentada
+Lab 6 da matéria de Realidade Virtual e Aumentada. 
+<br> <br>
 Recriação do clássico mapa de CS 1.6: fy_pool_day!
 <br> <br>
 ![image](https://github.com/aranhoso/XR-Lab6/assets/95397071/96eac21a-aba2-4a3e-8552-c5d241dcb655)
